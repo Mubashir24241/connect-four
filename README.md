@@ -38,6 +38,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or want to reach out, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or want to reach out, feel free to contact me at [mbshrmr@gmail.com](mailto:mbshrmr@gmail.com).
 
 Enjoy playing the Connect Four Game! Have fun and may the best player win!
